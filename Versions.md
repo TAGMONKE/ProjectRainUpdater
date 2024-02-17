@@ -24,5 +24,3 @@ GitHub: https://github.com/TAGMONKE/
 Repositories: https://github.com/TAGMONKE/ProjectRainUpdater/
 
 
-
-<color=purple>
